@@ -1,6 +1,6 @@
 import turtle as t
-playerAscore=3
-playerBscore=4
+playerAscore=31
+playerBscore=62
  
 window=t.Screen()
 window.title("Yarrag")
